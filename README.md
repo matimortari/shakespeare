@@ -1,13 +1,32 @@
-# Shakespeare AI
+# Shakespeare AI 🎭
 
-A simple project made with Python, TensorFlow, and Keras for training and generating text using an LSTM (Long Short-Term Memory) model, based on the works of William Shakespeare.
+A simple Python project made with TensorFlow, and Keras for training and generating text using an LSTM (Long Short-Term Memory) model, based on the works of William Shakespeare.
 
-## Getting Started
+## 🏁 Getting Started
 
-1. Clone this repository: `git clone https://github.com/matimortari/shakespeare-ai .`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Train and generate Keras model: `python shakespeare_generate.py`
-4. Load the model to generate the text: `python shakespeare_load.py`
+- Clone this repository:
+
+  ```bash
+  git clone https://github.com/matimortari/shakespeare-ai .
+  ```
+
+- Install dependencies:
+
+  ```bash
+  pip install -r requirements.txt
+  ```
+
+- Train and generate Keras model:
+
+  ```bash
+  python shakespeare_generate.py
+  ```
+
+- Load the model to generate the text:
+
+  ```bash
+  python shakespeare_load.py
+  ```
 
 ## 📬 Contact
 
